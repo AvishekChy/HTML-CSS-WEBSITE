@@ -1,7 +1,18 @@
+/* headings started */
+
 .navbar{
     height: 80px;
-    width: auto;
     display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.ul-items{
+    display: flex;
+    justify-content: space-between;
 }
 
 /* 
